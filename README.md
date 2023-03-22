@@ -1,1 +1,1 @@
-# Dynamic_Navigation_system
+This project is based on the navigation system where the from point and the destination point is in dynamic (moving) condition.The distance between the two locations is identified and displayed. This project is done using Python.
